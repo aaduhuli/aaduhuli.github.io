@@ -1,0 +1,118 @@
+/**
+ * Inspired by https://cfenollosa.com/blog/ and Bashblog
+ * License (CC) by-nc, 2021- aaduhuli
+ */
+
+body {
+	font-family: "Signika Negative", Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.bound,
+
+#divbodyholder {
+    width: 760px;
+    margin: auto;
+}
+
+.header {
+    width:100%;max-width:800px;margin:0px auto;
+    padding-top:24px;padding-bottom:8px;
+    border-bottom: solid 1px #666;
+}
+
+.bound-large {
+    width: 1000px;
+    margin: auto;
+}
+
+h1.h1_fp {
+	margin-top: 36px;
+}
+
+ul {
+    line-height: 1.4em;
+}
+
+.headerbig {
+    text-shadow: 1px 1px #ccc;
+}
+
+.head {
+	width: 660px;
+	margin: 0px auto;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+
+.headerright {
+	margin: 10px auto 0 auto;
+	float: right;
+    width: 521px;
+    padding-left: 24px;
+}
+
+.headerleft {
+	width: 115px;
+	margin: auto;
+	float: left;
+}
+
+#footer {
+	border-top: solid 1px #666;
+	color: #333333;
+	text-align: center;
+	font-size: small;
+    padding: 16px 0px;
+    width: 600px;
+    margin: 36px auto 12px auto;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #336699;
+}
+
+blockquote {
+	background-color: #f9f9f9;
+	/*border-left: solid 4px #e9e9e9;*/
+	margin-left: 12px;
+	margin-bottom: 36px;
+	padding: 12px 12px 12px 24px;
+}
+
+blockquote img {
+	margin: 12px 0px;
+}
+
+blockquote iframe {
+	margin: 12px 0px;
+}
+
+.notice {
+	 text-align: right;
+	 margin: 24px;
+	 font-family: Courier New, Courier, Monospace;
+	 font-size: small;
+ }
+
+.ulink {
+	text-decoration: underline !important;
+}
+
+.rating td {
+	padding: 2px 8px;
+}
+
+table.rating {
+	border-collapse: collapse;
+	border: solid 1px #ccc;
+	background-color: #f3f3f3;
+	margin-top: 16px;
+	padding: 4px;
+}
+
+.centered {
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Aaduhuli</title><link>https://aaduhuli.github.io//index.html</link>
+<description>Collection of my thoughts and experiments.</description><language>en</language>
+<lastBuildDate>Wed, 21 Apr 2021 13:43:26 +0200</lastBuildDate>
+<pubDate>Wed, 21 Apr 2021 13:43:26 +0200</pubDate>
+<atom:link href="https://aaduhuli.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Introduction
+</title><description><![CDATA[
+<style>body {text-align: justify}</style>
+<p>I am starting this blog to collect a random assortment of my thoughts, ideas and experiments. Previously I have used <a href="https://telegra.ph">telegra.ph</a> to write short excerpts that I shared with friends, this blog is a means to bring it all together in one place.</p>
+<p>The blog is written in markdown, published using <a href="https://github.com/cfenollosa/bashblog">bashblog</a> and hosted using <a href="https://pages.github.com/">github pages</a>. The motivation behind this approach is to:</p>
+<ol type="1">
+<li>Stay minimal.</li>
+<li>Create an independent, bloat-free corner of the world wide web.</li>
+<li>Learn how to best do all this.</li>
+</ol>
+<p>Here we go.</p>
+
+
+
+<!-- text end -->
+]]></description><link>https://aaduhuli.github.io//introduction.html</link>
+<guid>https://aaduhuli.github.io//./introduction.html</guid>
+<dc:creator>aaduhuli</dc:creator>
+<pubDate>Wed, 21 Apr 2021 09:52:32 +0200</pubDate></item>
+</channel></rss>
