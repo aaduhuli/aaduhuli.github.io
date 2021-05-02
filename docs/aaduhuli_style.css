@@ -8,10 +8,22 @@ body {
 	margin: auto;
 	padding: 0;
     line-height: 1.2em;
-    text-align: justify;
+    /* text-align: justify; */
+}
+.bound,
+
+table, th, td{
+    border: 1px solid #666;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 1%;
+    margin: auto;
 }
 
-.bound,
+table{
+    width: 90%;
+
+}
 
 #divbodyholder {
     /* width: 760px; */
@@ -83,18 +95,6 @@ blockquote iframe {
 
 .ulink {
 	text-decoration: underline !important;
-}
-
-.rating td {
-	padding: 2px 8px;
-}
-
-table.rating {
-	border-collapse: collapse;
-	border: solid 1px #ccc;
-	background-color: #f3f3f3;
-	margin-top: 16px;
-	padding: 4px;
 }
 
 .centered {

@@ -2,9 +2,118 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Aaduhuli</title><link>https://aaduhuli.github.io//index.html</link>
 <description>Collection of my thoughts and experiments.</description><language>en</language>
-<lastBuildDate>Sun, 02 May 2021 11:17:35 +0200</lastBuildDate>
-<pubDate>Sun, 02 May 2021 11:17:35 +0200</pubDate>
+<lastBuildDate>Sun, 02 May 2021 12:25:26 +0200</lastBuildDate>
+<pubDate>Sun, 02 May 2021 12:25:26 +0200</pubDate>
 <atom:link href="https://aaduhuli.github.io//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+My list of FOSS
+</title><description><![CDATA[
+<p>Here is a list of Free and Open Source Software (FOSS) that I use as of today. I hope it helps others who are looking to switch to open source alternatives make their decisions.</p>
+<p><strong>Hardware</strong></p>
+<p>I primarily use a macbook pro (running Mojave) from work as my main machine along with a personal iphone. Apart from that I have a few raspberry pi’s and one lonely beaglebone (both running Debian) for doing odd tasks.</p>
+<p><strong>Software</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Application</strong></th>
+<th><strong>Software</strong></th>
+<th><strong>Comments</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Web Browser</td>
+<td>Firefox</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Email Client</td>
+<td>Thunderbird</td>
+<td>Go Mozilla !</td>
+</tr>
+<tr class="odd">
+<td>Editor</td>
+<td>VIM / Atom</td>
+<td>code, text typically on Atom</td>
+</tr>
+<tr class="even">
+<td>Terminal</td>
+<td>iTerm</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Note taking</td>
+<td><a href="https://joplinapp.org/">Joplin</a></td>
+<td>Multi platform, markdown support, storage on Dropbox</td>
+</tr>
+<tr class="even">
+<td>Messenger</td>
+<td>Signal, Telegram</td>
+<td>Whatsapp on the phone, it’s mostly one of these three.</td>
+</tr>
+<tr class="odd">
+<td>RSS Reader</td>
+<td>NetNewsWire</td>
+<td>Works beautifully for MacOS</td>
+</tr>
+<tr class="even">
+<td>PDF Library</td>
+<td>Calibre</td>
+<td>Use it to maintain my library and sync with Kindle</td>
+</tr>
+<tr class="odd">
+<td>Window management</td>
+<td>Spectacle</td>
+<td>Nifty tool for macos, provides quick keyboard shortcuts to manage window sizes etc.</td>
+</tr>
+<tr class="even">
+<td>Firewall alert</td>
+<td>LuLu</td>
+<td>Alerts outgoing and incoming connections over the network</td>
+</tr>
+<tr class="odd">
+<td>Media Player</td>
+<td>VLC media player</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Audio Processing</td>
+<td>Audacity</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Video Processing</td>
+<td>ffmpeg</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Office Tools</td>
+<td>Libreoffice / Microsoft office</td>
+<td>MS Office is not FOSS but mentioned because Microsoft Word is unfortunately a hard dependency for me.</td>
+</tr>
+<tr class="odd">
+<td>Password Manager</td>
+<td>KeepassX</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Programming</td>
+<td>Python, IPython, Jupyter</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<!-- text end -->
+]]></description><link>https://aaduhuli.github.io//my-list-of-foss.html</link>
+<guid>https://aaduhuli.github.io//./my-list-of-foss.html</guid>
+<dc:creator>aaduhuli</dc:creator>
+<pubDate>Sun, 02 May 2021 11:51:27 +0200</pubDate></item>
 <item><title>
 Unexpected philosophy at the Karlsruhe train station
 </title><description><![CDATA[

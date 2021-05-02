@@ -29,6 +29,13 @@
     color: #c8c4be;
     background-color: #1d2123;
   }
+  table, th, td{
+      border: 1px solid #c8c4be;
+      text-align: left;
+      padding: 1%;
+      border-collapse: collapse;
+      background-color: #1d2123;
+  }
   a.ablack{color:#e3ded6;}
   h3.links_header a{color:#7d7c79;}
   #footer {color: #e3ded6;}
