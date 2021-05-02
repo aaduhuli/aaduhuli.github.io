@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Aaduhuli</title><link>https://aaduhuli.github.io//index.html</link>
 <description>Collection of my thoughts and experiments.</description><language>en</language>
-<lastBuildDate>Sun, 02 May 2021 12:25:26 +0200</lastBuildDate>
-<pubDate>Sun, 02 May 2021 12:25:26 +0200</pubDate>
+<lastBuildDate>Sun, 02 May 2021 12:34:25 +0200</lastBuildDate>
+<pubDate>Sun, 02 May 2021 12:34:25 +0200</pubDate>
 <atom:link href="https://aaduhuli.github.io//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 My list of FOSS
@@ -109,6 +109,7 @@ My list of FOSS
 </tbody>
 </table>
 
+
 <!-- text end -->
 ]]></description><link>https://aaduhuli.github.io//my-list-of-foss.html</link>
 <guid>https://aaduhuli.github.io//./my-list-of-foss.html</guid>
@@ -147,6 +148,7 @@ Unexpected philosophy at the Karlsruhe train station
 <img src="./images/e2fdfb62d73d43ae81e122c34d2b6049.png" alt="Ich bin ein Individuum" /><figcaption aria-hidden="true">Ich bin ein Individuum</figcaption>
 </figure>
 
+
 <!-- text end -->
 ]]></description><link>https://aaduhuli.github.io//unexpected-philosophy-at-the-karlsruhe-train-station.html</link>
 <guid>https://aaduhuli.github.io//./unexpected-philosophy-at-the-karlsruhe-train-station.html</guid>
@@ -184,6 +186,7 @@ Human brain and evolution
 <p>I found this realisation quite humbling. To think, that the main thoughts of a Roman soldier standing guard in a remote German outpost would have been those of food and a warm bath or that the ancient Harappan peoples approached difficult problems with the same cognitive tools as we have today. This could also mean that observations made by thinkers such as the Buddha on the human behaviour and how to cope with them would scientifically still be applicable today. What could this mean for modern psychology?</p>
 <p><em>^ Here I make a relatively harmless assumption (I think) that brain and behaviour are closely linked, and that similar brains lead to similar behaviours. While this is true in general, it is important to say that we do not know in detail all the variables that are involved. Could the behaviour of humans a few thousand years ago be completely different from that of today due to some external environmental factors that we do know of?</em></p>
 
+
 <!-- text end -->
 ]]></description><link>https://aaduhuli.github.io//human-brain-and-evolution.html</link>
 <guid>https://aaduhuli.github.io//./human-brain-and-evolution.html</guid>
@@ -216,6 +219,7 @@ Catching Comet Neowise
 </figure>
 <p>Until, 6700 years later Neowise.</p>
 
+
 <!-- text end -->
 ]]></description><link>https://aaduhuli.github.io//catching-comet-neowise.html</link>
 <guid>https://aaduhuli.github.io//./catching-comet-neowise.html</guid>
@@ -232,6 +236,7 @@ Introduction
 <li>Learn how to best do all this.</li>
 </ol>
 <p>Here we go.</p>
+
 
 <!-- text end -->
 ]]></description><link>https://aaduhuli.github.io//introduction.html</link>
