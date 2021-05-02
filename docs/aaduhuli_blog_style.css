@@ -35,9 +35,3 @@
   a{color: #4d99e6;}
   blockquote{background-color: #485a63; padding: 2%; border-left: solid 4px #6b849e;}
 }
-/* If the screen size is 600px or less, set the font-size of <div> to 30px */
-@media only screen and (max-width: 600px) {
-  body {
-    width: 80%;
-  }
-}

@@ -7,13 +7,15 @@ body {
 	font-family: "Signika Negative", Helvetica, Arial, sans-serif;
 	margin: auto;
 	padding: 0;
-        line-height: 1.2em;
+    line-height: 1.2em;
+    text-align: justify;
 }
 
 .bound,
 
 #divbodyholder {
-    width: 760px;
+    /* width: 760px; */
+    width: 60%;
     margin: auto;
 }
 
@@ -29,7 +31,7 @@ body {
 }
 
 h1.h1_fp {
-	margin-top: 36px;
+    margin-top: 36px;
 }
 
 figcaption {
@@ -39,30 +41,6 @@ figcaption {
 
 ul {
     line-height: 1.4em;
-}
-
-.headerbig {
-    text-shadow: 1px 1px #ccc;
-}
-
-.head {
-	width: 660px;
-	margin: 0px auto;
-	padding-top: 14px;
-	padding-bottom: 14px;
-}
-
-.headerright {
-	margin: 10px auto 0 auto;
-	float: right;
-    width: 521px;
-    padding-left: 24px;
-}
-
-.headerleft {
-	width: 115px;
-	margin: auto;
-	float: left;
 }
 
 #footer {
@@ -121,4 +99,12 @@ table.rating {
 
 .centered {
     text-align: center;
+}
+
+/* If the screen size is 800px or less, set things */
+@media only screen and (max-width: 800px) {
+  body {width: 100%;}
+  #divbodyholder{width: 80%;}
+  .header{width: 100%}
+  #footer{width: 100%}
 }
