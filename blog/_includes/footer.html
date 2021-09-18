@@ -1,0 +1,24 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+	<p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+         {%- if site.author and site.email -%}
+	 <p class="p-name"> © {{ site.author }} 2021 &mdash; <a class="u-email" href="mailto:{{ site.email }}">contact</a> </p>
+         {%- endif -%}
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
