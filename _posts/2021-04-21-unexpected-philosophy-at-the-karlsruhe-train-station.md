@@ -28,4 +28,4 @@ Some basic duckduckgo'ing revealed further information:
 
 - The wall and the poetry upon it is also mentioned in [this](http://stephan-teuber.de/unerwartete-poesie-beim-umsteigen) blog post (in German). Below picture taken from the same blog post.
 
-![Ich bin ein Individuum](https://ibb.co/G07GtYz)
+![Ich bin ein Individuum](https://i.ibb.co/xDhwf9x/e2fdfb62d73d43ae81e122c34d2b6049.png)
