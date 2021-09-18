@@ -96,4 +96,3 @@ ENV/
 
 .DS_Store
 docs/backups/
-*.md
