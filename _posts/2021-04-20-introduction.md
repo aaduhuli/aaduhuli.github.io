@@ -1,5 +1,3 @@
-Introduction
-
 I am starting this blog to collect a random assortment of my thoughts, ideas and experiments. Previously I have used [telegra.ph](https://telegra.ph) to write short excerpts that I shared with friends, this blog is a means to bring it all together in one place.
 
 The blog is written in markdown, published using [bashblog](https://github.com/cfenollosa/bashblog) and hosted using [github pages](https://pages.github.com/). The motivation behind this approach is to:

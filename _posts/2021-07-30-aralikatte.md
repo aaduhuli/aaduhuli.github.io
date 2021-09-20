@@ -1,5 +1,3 @@
-Aralikatte
-
 In the summer of 2020 , when the first wave of the COVID-19 pandemic was raging across the globe I came across this Kannada podcast called [Aralikatte](https://open.spotify.com/show/46OtX5H5WpRN0fa8iAFj1P) on Spotify. I am not an avid follower of podcasts and had not explored this medium before. I thought to give this a try and I am very happy that I did. 
 
 In "Aralikatte" a group of Bengaluru techies get together to discuss various perspectives on a random range of topics. Sometimes experts in a particular field are invited to talk in a casual and informal manner on everyday things. And they do it all in "Bengaluru style Kannada". It is refreshing to see high quality current issues covered in an unassuming and curious way in my mother tongue. 
