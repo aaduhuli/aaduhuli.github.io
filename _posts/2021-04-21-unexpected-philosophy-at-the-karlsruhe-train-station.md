@@ -1,5 +1,3 @@
-Unexpected philosophy at the Karlsruhe train station
-
 In my travels up and down Germany, I have sometimes passed by the Karlsruhe train station. My train stops, I never have gotten out, and depending on where my train is I have seen this wall of text. It does not look like an advertisement, and it caught my eye multiple times before I finally managed to read it. It simply says,
 
 > *Ich bin ein Individuum.*  

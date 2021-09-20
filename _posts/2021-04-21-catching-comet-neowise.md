@@ -1,5 +1,3 @@
-Catching Comet Neowise
-
 An older write-up from July 22, 2020.
 
 The comet NEOWISE (named after the NEOWISE mission of the Wide-field Infrared Survey Explorer (WISE) space telescope) is near earth and I got a chance to see it. Living where I live, the weather is always a big issue and for most of the comet's viewing duration there was heavy cloud cover. The comet is a rare naked-eye comet that was expected to dazzle viewers after the great show provided by Hale-Bopp in 1997 that I remember seeing so clearly when I was younger. It did not dazzle everyone as much, but was quite exciting anyway.

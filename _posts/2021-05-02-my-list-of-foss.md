@@ -1,5 +1,3 @@
-My list of FOSS
-
 Here is a list of Free and Open Source Software (FOSS) that I use as of today. I hope it helps others who are looking to switch to open source alternatives make their decisions. 
 
 **Hardware**

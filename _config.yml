@@ -35,7 +35,7 @@ header_pages:
 theme: minima
 minima:
   date_format: "%-d %B %Y"
-  skin: 'dark'
+    #   skin: 'dark'
 plugins:
   - jekyll-feed
 
