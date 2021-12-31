@@ -14,15 +14,20 @@ Below is a table of some varieties I know with their local names for reference.
 
 |     |     | | 
 | --- | --- | --- |
-| [Cavendish banana](https://en.wikipedia.org/wiki/Cavendish_banana) | Most common variety found in supermarkets in US/EU. | Generic banana, paccha baale hannu | 
-| [Dwarf Cavendish banana](https://en.wikipedia.org/wiki/Dwarf_Cavendish_banana) | | paccha baale hannu | 
-| Musa AB cultivar / Musa sp. var. elakki baale | South Indian indigenous variety | elakki baale hannu | 
-| N/A | | rasa baale hannu | 
-| Nendran variety | | Nendran baale hannu | 
-| N/A | | Kaadu baale (similar to pacca baale but slightly sour) | 
+| [Cavendish banana](https://en.wikipedia.org/wiki/Cavendish_banana) | Most common variety found in supermarkets in US/EU. | Generic banana, paccha baaLe hannu | 
+| [Dwarf Cavendish banana](https://en.wikipedia.org/wiki/Dwarf_Cavendish_banana) | | paccha baaLe hannu | 
+| Musa AB cultivar / Musa sp. var. elakki baaLe | South Indian indigenous variety | Elakki baLe HaNNu - closely related to Lady Finger bananas.  | 
+| N/A | | rasa baaLe hannu | 
+| Nendran variety | | Nendran baaLe hannu | 
+| N/A | | Kaadu baaLe (similar to pacca baaLe but slightly sour) | 
 
-I hope to expand this table as I learn more about the different varieties some day. 
+| Photos |     |
+| --- | --- |
+| ![Kar baaLe](https://i.ibb.co/MSt4zN8/kar-baa-Le.jpg) | Kari baaLe |
+| ![chandra_baaLe1](https://i.ibb.co/pZhmndM/chandra-baa-Le1.jpg) | Chandra baaLe |
+
 
 ![banana, banana for scale](https://i.ibb.co/ggJcZBd/bananas.jpg)
+Three different varieties of bananas in the above picture with the smallest one being elakki baaLe (also in bunch). I could only find [one reference](https://pubmed.ncbi.nlm.nih.gov/21476022/) to the elakki baaLe hannu where they refer to it as simply Musa sp. var. elakki baaLe. This is my favourite variety, it's sweet and flavourful in a way that hardly compares to the Cavenish variety.
 
-Three different varieties of bananas in the above picture with the smallest one being elakki baale (also in bunch). I could only find [one reference](https://pubmed.ncbi.nlm.nih.gov/21476022/) to the elakki baale hannu where they refer to it as simply Musa sp. var. elakki baale. This is my favourite variety, it's sweet and flavourful in a way that hardly compares to the Cavenish variety.
+I hope to expand this table as I learn more about the different varieties some day. 
