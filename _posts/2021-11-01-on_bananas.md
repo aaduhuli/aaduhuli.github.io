@@ -25,9 +25,11 @@ Below is a table of some varieties I know with their local names for reference.
 | --- | --- |
 | ![Kar baaLe](https://i.ibb.co/MSt4zN8/kar-baa-Le.jpg) | Kari baaLe |
 | ![chandra_baaLe1](https://i.ibb.co/pZhmndM/chandra-baa-Le1.jpg) | Chandra baaLe |
+| ![vat baaLe](https://i.ibb.co/WznMZmx/vat-baa-Le.jpg) | Vat baaLe |
 
 
 ![banana, banana for scale](https://i.ibb.co/ggJcZBd/bananas.jpg)
+
 Three different varieties of bananas in the above picture with the smallest one being elakki baaLe (also in bunch). I could only find [one reference](https://pubmed.ncbi.nlm.nih.gov/21476022/) to the elakki baaLe hannu where they refer to it as simply Musa sp. var. elakki baaLe. This is my favourite variety, it's sweet and flavourful in a way that hardly compares to the Cavenish variety.
 
 I hope to expand this table as I learn more about the different varieties some day. 
