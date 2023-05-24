@@ -4,6 +4,5 @@
 
 layout: home
 ---
-<html> 
+
 <a rel="me" href="https://tilde.zone/@aaduhuli">Mastodon</a>
-<html>
