@@ -5,9 +5,9 @@
 # Site
 title: aaduhuli
 subtitle: ''
-description: ''
+description: 'collection of thoughts and ideas'
 keywords:
-author: John Doe
+author: aaduhuli
 language: en
 timezone: ''
 
@@ -16,6 +16,7 @@ timezone: ''
 url: 'https://aaduhuli.github.io'
 root: /
 permalink: /p/:abbrlink/
+# :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -97,7 +98,21 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: brewski
+
+theme_config:
+  logo:
+  google_analytics: 
+  copyright:
+    since: 2024
+    name: aaduhuli
+    url: https://aaduhuli.github.io
+  menu:
+    Home: /
+    About: /about
+    GitHub: https://github.com/aaduhuli
+    RSS: /atom.xml
+  logo: /logo.svg
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
