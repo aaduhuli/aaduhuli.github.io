@@ -14,9 +14,9 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: 'https://aaduhuli.github.io'
-root: /
-permalink: /p/:abbrlink/
-# :year/:month/:day/:title/
+root: /aaduhuli.github.io/
+# permalink: /p/:abbrlink/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -101,7 +101,7 @@ ignore:
 theme: brewski
 
 theme_config:
-  logo: /logo.svg
+  logo: 
   google_analytics: 
   copyright:
     since: 2024
