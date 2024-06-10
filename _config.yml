@@ -101,7 +101,7 @@ ignore:
 theme: brewski
 
 theme_config:
-  logo:
+  logo: /logo.svg
   google_analytics: 
   copyright:
     since: 2024
@@ -112,7 +112,6 @@ theme_config:
     About: /about
     GitHub: https://github.com/aaduhuli
     RSS: /atom.xml
-  logo: /logo.svg
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
