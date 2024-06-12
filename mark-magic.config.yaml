@@ -11,4 +11,4 @@ tasks:
       name: '@mark-magic/plugin-hexo' # Output plug-in and generate files required by hexo
       config:
         path: './' # The root directory of the hexo project
-        base: /aaduhuli.github.io/ # Base during deployment
+        base: /joplin-hexo-demo/ # Base during deployment
