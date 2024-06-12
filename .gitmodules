@@ -1,6 +1,0 @@
-[submodule "themes/brewski"]
-	path = themes/brewski
-	url = https://github.com/tiaanduplessis/hexo-theme-brewski.git
-[submodule "themes/zen"]
-	path = themes/zen
-	url = https://github.com/mouyase/hexo-theme-zen.git
