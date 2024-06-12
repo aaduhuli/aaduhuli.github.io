@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: 'https://aaduhuli.github.io'
-root: /aaduhuli.github.io/
+root: /
 permalink: /p/:abbrlink/
 # permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -101,10 +101,12 @@ ignore:
 theme: brewski
 
 theme_config:
+  name: Brewski
+  url: https://github.com/tiaanduplessis/hexo-theme-brewski
   logo: 
   google_analytics: 
   copyright:
-    since: 2024
+    since: 2021
     name: aaduhuli
     url: https://aaduhuli.github.io
   menu:
