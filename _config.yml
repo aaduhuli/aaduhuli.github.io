@@ -98,22 +98,22 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: brewski
+theme: fluid
 
-theme_config:
-  # name: Brewski
-  # url: https://github.com/tiaanduplessis/hexo-theme-brewski
-  # logo: 
-  # google_analytics: 
-  copyright:
-    since: 2021
-    name: aaduhuli
-    url: https://aaduhuli.github.io
-  menu:
-    Home: /
-    About: /about
-    GitHub: https://github.com/aaduhuli
-    RSS: /atom.xml
+# theme_config:
+#   # name: Brewski
+#   # url: https://github.com/tiaanduplessis/hexo-theme-brewski
+#   # logo: 
+#   # google_analytics: 
+#   copyright:
+#     since: 2021
+#     name: aaduhuli
+#     url: https://aaduhuli.github.io
+#   menu:
+#     Home: /
+#     About: /about
+#     GitHub: https://github.com/aaduhuli
+#     RSS: /atom.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
