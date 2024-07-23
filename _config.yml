@@ -116,7 +116,7 @@ theme: zen
 theme_config:
   favicon: /resources/aaduhuli.png
   copyright:
-    name: aaduhuli 2020-2024
+    name: aaduhuli
     url: https://aaduhuli.github.io
   menu:
     Home: /
