@@ -4,8 +4,8 @@
 
 # Site
 title: aaduhuli
-subtitle: ''
-description: 'collection of random thoughts and ideas'
+subtitle: 'collection of random thoughts and ideas'
+description: ''
 keywords: 
 author: aaduhuli
 language: en
@@ -98,19 +98,33 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: brewski
+# theme: brewski
+# theme_config:
+#   logo: /resources/aaduhuli.png
+#   google_analytics: 
+#   copyright:
+#     since: 2020
+#     name: aaduhuli
+#     url: https://aaduhuli.github.io
+#   menu:
+#     Home: /
+#     About: /about
+#     GitHub: https://github.com/aaduhuli
+#     RSS: /atom.xml
+
+theme: zen
 theme_config:
-  logo: /resources/aaduhuli.png
-  google_analytics: 
+  favicon: /resources/aaduhuli.png
   copyright:
-    since: 2020
-    name: aaduhuli
+    name: aaduhuli 2020-2024
     url: https://aaduhuli.github.io
   menu:
     Home: /
-    About: /about
+    About: /about/about.html
     GitHub: https://github.com/aaduhuli
     RSS: /atom.xml
+  twikoo:
+    enable: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
