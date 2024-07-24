@@ -19,8 +19,8 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -80,7 +80,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD-MM-YYYY
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
@@ -99,19 +99,6 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: brewski
-# theme_config:
-#   logo: /resources/aaduhuli.png
-#   google_analytics: 
-#   copyright:
-#     since: 2020
-#     name: aaduhuli
-#     url: https://aaduhuli.github.io
-#   menu:
-#     Home: /
-#     About: /about
-#     GitHub: https://github.com/aaduhuli
-#     RSS: /atom.xml
 
 theme: zen
 theme_config:
@@ -124,7 +111,7 @@ theme_config:
   menu:
     Home: /
     About: /about/
-    GitHub: https://github.com/aaduhuli
+    # GitHub: https://github.com/aaduhuli
     # Tags: /tags/
     RSS: /atom.xml
   twikoo:
@@ -135,4 +122,3 @@ theme_config:
 deploy:
   type: ''
 
-# https://github.com/probberechts/hexo-theme-cactus/issues/35
