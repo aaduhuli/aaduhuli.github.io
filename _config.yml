@@ -53,6 +53,7 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -114,14 +115,17 @@ ignore:
 
 theme: zen
 theme_config:
+  tags:
+    enable: true
   favicon: /resources/aaduhuli.png
   copyright:
     name: aaduhuli
     url: https://aaduhuli.github.io
   menu:
     Home: /
-    About: /about/about.html
+    About: /about/
     GitHub: https://github.com/aaduhuli
+    # Tags: /tags/
     RSS: /atom.xml
   twikoo:
     enable: false
@@ -130,3 +134,5 @@ theme_config:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# https://github.com/probberechts/hexo-theme-cactus/issues/35
