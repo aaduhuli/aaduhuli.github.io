@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2021-04-21-human-brain-and-evolution
+title: Human brain and evolution
 abbrlink: 9fbdaba4c6654f1e98e52c8cecaee76b
 tags: []
 categories:
-  - _posts
+  - main
 date: 1717994307287
-updated: 1717994307287
+updated: 1721824984927
 ---
 
 In my recent discussions with some of my friends I have repeatedly come upon this insight that the human brains have remained unchanged for over 30,000 years (at least) i.e. the hunter gatherer humans, Vedic peoples, Huns, Romans etc. have had the same brains with the same cognitive abilities as we did. I find this idea to be amazing because it has a lot of implications on how we currently view and understand things. I came across this idea first from this [Kurzgesagt](https://www.youtube.com/watch?v=dGiQaabX3_o) video talking about human origins. They say that we could go back approximately 50,000 years ago, kidnap a human baby and raise it without noticing any difference in today's world. But, some research into this makes this more interesting.
