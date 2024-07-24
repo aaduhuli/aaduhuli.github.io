@@ -4,7 +4,7 @@ title: Human brain and evolution
 abbrlink: 9fbdaba4c6654f1e98e52c8cecaee76b
 tags: []
 categories:
-  - main
+  - published
 date: 1717994307287
 updated: 1721824984927
 ---
